@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">TestJavaService</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQoJU3RyaW5nCU51bWJlcjEgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGluZUN1
+cnNvciwgIk51bWJlcjEiICk7DQoJU3RyaW5nCU51bWJlcjIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5n
+KCBwaXBlbGluZUN1cnNvciwgIk51bWJlcjIiICk7DQoJU3RyaW5nCU91dHB1dFZhbHVlID0gSURh
+dGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJzb3IsICJOdW1iZXIxIiApK0lEYXRhVXRpbC5n
+ZXRTdHJpbmcoIHBpcGVsaW5lQ3Vyc29yLCAiTnVtYmVyMiIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRl
+c3Ryb3koKTsNCg0KLy8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yXzEgPSBw
+aXBlbGluZS5nZXRDdXJzb3IoKTsNCklEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yXzEsICJP
+dXRwdXQiLCBPdXRwdXRWYWx1ZSApOw0KcGlwZWxpbmVDdXJzb3JfMS5kZXN0cm95KCk7</value>
+</Values>
